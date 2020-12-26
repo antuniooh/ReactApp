@@ -67,7 +67,7 @@ html {
 }
 
 a.social {
-  margin: 0 calc(1.5rem + 2vmin);
+  margin: 0 calc(1rem + 2vmin);
   transition: transform 250ms;
   display: inline-block;
 }
