@@ -2,7 +2,7 @@
 [
     {
         "id": 0,
-        "value" :"A barragem da maior usina hidrelétrica do mundo, a Usina das Três Gargantas, localizada na China, prolongaria a duração do dia em 0,66 microssegundos se operasse em sua capacidade máxima. Isso ocorreria em virtude da enorme massa de água que ela comporta."
+        "value" :"Em Nova York, quando uma casa considerada mal-assombrada é vendida, é obrigatório que o comprador seja avisado."
     },
     {
         "id": 1,
@@ -31,6 +31,22 @@
     {
         "id": 7,
         "value" :"Os bicho-preguiça, além de lentos, são muito ignorantes. Ademais, às vezes, confundem seus próprios braços com galhos e caem da árvore que estão empoleirados."
+    },
+    {
+        "id": 8,
+        "value" :"No Japão, um dos sabores de sorvete disponíveis é o de enguia."
+    },
+    {
+        "id": 9,
+        "value" :"As três famílias mais ricas do mundo são detentoras de mais dinheiro do que possuem os 48 países mais pobres do planeta."
+    },
+    {
+        "id": 10,
+        "value" :"O único planeta do sistema solar que não tem o nome de um deus é a Terra."
+    },
+    {
+        "id": 11,
+        "value" :"Estima-se que 2/3 das pessoas nunca viram neve na vida."
     }
     
 ]
