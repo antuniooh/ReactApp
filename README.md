@@ -5,7 +5,7 @@ Projeto desenvolvido de forma autônoma para aprender mais sobre ReactJS. Consis
 
 ## Funcionalidade
 
-O programa lê um arquivo JSON contendo diferentes curiosidades e lê de forma aleatória uma.
+O programa lê um arquivo JSON contendo diferentes curiosidades e exibe de forma aleatória uma dessas.
 
 ![image](images/main.png)
 
