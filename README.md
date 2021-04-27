@@ -20,4 +20,4 @@ O projeto será aberto em http://localhost:3000
 
 Além disso é possível abrir o projeto por meio do link direto abaixo:
 
-https://antuniooh.github.io/ReactApp/
+https://antuniooh.github.io/curiosity-app/
